@@ -235,7 +235,7 @@ class _AnimatedLoaderState extends State<AnimatedLoader>
             width: d,
             height: d,
             decoration: BoxDecoration(
-              color: widget.colors.first.withOpacity(1 - v),
+              color: widget.colors.first.withValues(alpha:  1 - v),
               shape: BoxShape.circle,
             ),
           ),
@@ -316,7 +316,7 @@ class _ProgressPainter extends CustomPainter {
   void paint(Canvas canvas, Size size) {
     final rect = Offset.zero & size;
     final bgPaint = Paint()
-      ..color = color.withOpacity(0.3)
+      ..color = color.withValues(alpha: 0.3)
       ..style = PaintingStyle.stroke
       ..strokeWidth = strokeWidth;
     final fgPaint = Paint()
