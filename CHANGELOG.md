@@ -9,3 +9,8 @@
     - `expandingCircle`
 - Full customization of `size`, `colors`, `duration`, `curve`, and `repeatCount`.
 - Basic skeleton of `AnimatedLoader` with `AnimationController` and `CurvedAnimation`.
+
+## [0.1.1] – 2025-07-01
+
+### Added
+- enhancement`animated_loader` package.
