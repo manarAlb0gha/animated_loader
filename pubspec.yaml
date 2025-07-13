@@ -1,6 +1,6 @@
 name: animated_loader
 description: "A highly customizable Flutter loading indicator supporting determinate/indeterminate modes and six built-in animation styles."
-version: 0.1.2
+version: 0.1.3
 repository: https://github.com/manarAlb0gha/animated_loader
 license: MIT
 
