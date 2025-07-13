@@ -1,15 +1,23 @@
 
-## [0.1.3] – 2025-07-13
+## [0.1.4] – 2025-07-13
 
 ### Added
 - enhancement`animated_loader` package.
 
-## [0.1.2] – 2025-07-10
+
+## [0.1.3] – 2025-07-10
 
 ### Added
 - enhancement`animated_loader` package.
 
-## [0.1.1] – 2025-07-5
+
+## [0.1.2] – 2025-07-8
+
+### Added
+- enhancement`animated_loader` package.
+
+
+## [0.1.1] – 2025-07-3
 
 ### Added
 - enhancement`animated_loader` package.
